@@ -9,14 +9,11 @@ Hi, <a href="https://www.linkedin.com/in/dennisrcao/">I'm Dennis</a></h1>
          !.........||||  ##                 ||||
          !.........||||                     ||||
          !.........||||                     ||||
-         !.........||||                     ||||
-         !.........||||                     ||||
          `.........||||                    ,||||
           .;.......||||               _.-!!|||||
    .,uodWBBBBb.....||||       _.-!!|||||||||!:'
 !YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
 !..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
-!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
 !......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
 !........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
 `..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
