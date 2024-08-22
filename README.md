@@ -1,4 +1,4 @@
-Hi 👋 <a href="https://www.denniscao.net">I'm Dennis</a>, a software engineer from Los Angeles, CA
+Hi 👋 <a href="https://www.denniscao.net">I'm Dennis</a>, a software engineer living in Los Angeles, CA
 
                   .----.
       .---------. | == |
