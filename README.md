@@ -1,4 +1,6 @@
-Hi 👋 <a href="https://www.denniscao.net">I'm Dennis</a>, a software engineer living in Los Angeles, CA
+Hi 👋 I'm  Dennis Cao, a software engineer & creative technologist living in Los Angeles, CA.
+<br/>[🌐 Check out my website!](https://www.denniscao.net)
+
 
                   .----.
       .---------. | == |
